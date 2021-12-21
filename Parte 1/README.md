@@ -1,8 +1,11 @@
-# T-SQL-Ejercicios
-Recolección de ejercicios para ser realizados en SQL Server.
+# **Links (fuente)**
 
-Los modelos fueron planteados en otras academias pero se cambian a los enunciados de los mismos para dar complejidad.
-Se agregan archivos a modo de ejemplo para la realización de algunos ejercicios.
+## Permisos y Roles Usuarios
+* [Database Level Roles](https://docs.microsoft.com/es-es/sql/relational-databases/security/authentication-access/database-level-roles?view=sql-server-ver15)
+
+## Permisos a un esquema
+* [Permisos a un usuario para un esquema](https://docs.microsoft.com/en-us/sql/t-sql/statements/grant-schema-permissions-transact-sql?redirectedfrom=MSDN&view=sql-server-ver15)
+
 
 Año: 2021
 Autor: Juan Ignacio Barrionuevo Galtier
