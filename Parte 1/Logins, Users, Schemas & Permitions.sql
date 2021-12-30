@@ -12,6 +12,8 @@ GO
 --Asociar Esquema al usuario
 CREATE SCHEMA Academia_Sch AUTHORIZATION Pepito;
 GO
+--Otra forma
+ALTER AUTHORIZATION ON SCHEMA::Academia_Sch TO Pepito2;
 
 --Dar permisos a Pepito sobre el esquema de dbo
 GRANT SELECT, INSERT, UPDATE, DELETE ON SCHEMA::dbo TO Pepito;
