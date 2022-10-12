@@ -1,5 +1,8 @@
 # **Links (fuente)**
 
+## Introducción a los permisos de los motores de bases de datos
+* [Introducción](https://learn.microsoft.com/es-es/sql/relational-databases/security/authentication-access/getting-started-with-database-engine-permissions?view=sql-server-ver15)
+
 ## Permisos y Roles Usuarios
 * [Database Level Roles](https://docs.microsoft.com/es-es/sql/relational-databases/security/authentication-access/database-level-roles?view=sql-server-ver15)
 
